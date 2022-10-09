@@ -8,5 +8,4 @@ Have fun!
 
 # Note:
 
-Make sure to delete the README.md if you download as a zip.
-You can however download these from the releases tab.
+Drag and drop the mods from the mods folder into your minecraft mods folder.
